@@ -8,7 +8,7 @@ THRIVE AGRO is a web app designed to improve farmers' conditions through dynamic
 - **Buyer Contacts:** We connect farmers with mill owners who can directly purchase from them, eliminating the need for middlemen. This reduces transportation costs and the commission taken by intermediaries.
 - **Reporting Section:** Farmers can report infrastructure problems such as poor roads, bad irrigation facilities, dam construction, etc., to the government. This open platform allows their issues to be addressed and resolved.
 
-This project was created for the BYTEVERSE HACKATHON organized by NITP.
+
 
 ## 🚀 Tech Stacks Used
 
